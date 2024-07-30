@@ -1,0 +1,33 @@
+/* src/components/ResidentDashboard.css */
+.dashboard {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .link-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .dashboard-link {
+    display: block;
+    margin: 10px;
+    padding: 15px 25px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .dashboard-link:hover {
+    background-color: #0056b3;
+  }
+  

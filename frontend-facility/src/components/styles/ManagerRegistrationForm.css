@@ -1,0 +1,16 @@
+
+body {
+    background-color: white; /* Set background color to white */
+}
+.form {
+height: 100vh; /* Adjust the height to fit the viewport */
+}
+
+body {
+    /* background-image: url(78791.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center; 
+    min-height: 100vh; 
+    margin: 0; 
+}
